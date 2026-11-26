@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "5.0",
-  "versionCode": 41,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.0-release.apk",
-  "size": 500509,
-  "sha256": "b0e3c50e4af8464285d605db31ed9118b1982fb11904ae09c7afa2705be26114",
+  "version": "5.1",
+  "versionCode": 42,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.1-release.apk",
+  "size": 836381,
+  "sha256": "766cdd714aa379e9b55042f88b3adddbfd53ebfbd2e74430051e6d667f57359d",
   "date": "2026-11-26",
-  "notes": "Animiertes Intro\n- Das animierte Logo läuft beim Start im Hochformat auf schwarzem Hintergrund"
+  "notes": "Buddy als App-Symbol\n- Buddy ist App-Symbol und Kopf-Logo\n- Buddy-Animation läuft flüssig und hat neue Gesten: umschauen, winken, Lupe, zwinkern, tanzen"
 }
