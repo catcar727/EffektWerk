@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "5.5",
-  "versionCode": 46,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.5-release.apk",
-  "size": 975645,
-  "sha256": "cd93dac1852a246ef8ded1214d243929ee58cb652c84a5955869730c3ca81ccc",
+  "version": "5.6",
+  "versionCode": 47,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.6-release.apk",
+  "size": 979741,
+  "sha256": "4d9a3e593112b92ffc0d3d1ce45fcfddcd0b3372fd3727fd297cf7aaa9881210",
   "date": "2026-11-26",
-  "notes": "Schnellere Effekt-Vorschauen\n- Alle sichtbaren Vorschauen werden sofort gezeichnet\n- Partikel-Effekte sind nicht mehr anfangs leer\n- Kategorie-Wechsel ohne Neuladen"
+  "notes": "Malen & Struktur teilen\n- Eigene Farben direkt auf die LED-Anordnung malen, live auf den LEDs\n- Bilder speichern und wieder laden\n- Gescannte Anordnung als Text teilen oder kopieren"
 }
