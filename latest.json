@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.4",
-  "versionCode": 15,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.4-release.apk",
-  "size": 53957,
-  "sha256": "c3a5bbe90121e5cc161e65d93e57d097313443e160190b6155454f690e8b0c7a",
+  "version": "2.5",
+  "versionCode": 16,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.5-release.apk",
+  "size": 58053,
+  "sha256": "9efe96679fc18cfd343d94aba96b966a13305648036e004975d57ab40cc4ff2b",
   "date": "2026-11-26",
-  "notes": "Buttons & Scan-Ende\n- Buttons im Scan-Bereich passen wieder\n- Scan-Ende robuster, Fehler werden mit Zeilennummer angezeigt"
+  "notes": "Neon-Fenster & Ur-Logo\n- Update-Fenster mittig mit neongrünem Leuchten\n- Das bunte Ur-Logo ist zurück"
 }
