@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "5.4",
-  "versionCode": 45,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.4-release.apk",
+  "version": "5.5",
+  "versionCode": 46,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.5-release.apk",
   "size": 975645,
-  "sha256": "97156715127adc3fe82a1284ad1f99ca9844d2d841febb144f7e6550cc6c787d",
+  "sha256": "cd93dac1852a246ef8ded1214d243929ee58cb652c84a5955869730c3ca81ccc",
   "date": "2026-11-26",
-  "notes": "Einführung beim ersten Start\n- 10 Wisch-Seiten mit Funktionen, Hinweisen und Feedback-Bereich\n- Einstellungen zum Abhaken: Benachrichtigungen, Neustart nach Update, Kamera, Mikrofon, Update-Suche, Signalton\n- Einführung jederzeit unter Mehr wieder aufrufbar"
+  "notes": "Schnellere Effekt-Vorschauen\n- Alle sichtbaren Vorschauen werden sofort gezeichnet\n- Partikel-Effekte sind nicht mehr anfangs leer\n- Kategorie-Wechsel ohne Neuladen"
 }
