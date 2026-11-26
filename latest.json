@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.8",
-  "versionCode": 19,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.8-release.apk",
-  "size": 58053,
-  "sha256": "7eab26c75c640d2114dc0740ba0d50b654181cfd33380d9851594c999853dfa8",
+  "version": "2.9",
+  "versionCode": 20,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.9-release.apk",
+  "size": 62149,
+  "sha256": "5f85688775d66eaf0defbc81e58fbebab7d8eb91253060969db7a0099833976d",
   "date": "2026-11-26",
-  "notes": "Automatisches Referenzfoto\n- Vor jedem Scan wird nach dem Auto-Zoom automatisch ein Referenzfoto mit leuchtenden LEDs gespeichert"
+  "notes": "Varianten, Miniaturen, Auto-Zoom\n- Auto-Zoom repariert (WLED wird vorher eingeschaltet) plus digitaler Ausschnitt\n- Bestätigungston nach Scan und Nachmessen\n- Richtung und Stil für jeden Effekt\n- Live-Miniaturen auf der gescannten Struktur"
 }
