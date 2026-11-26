@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.5",
-  "versionCode": 16,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.5-release.apk",
+  "version": "2.6",
+  "versionCode": 17,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.6-release.apk",
   "size": 58053,
-  "sha256": "9efe96679fc18cfd343d94aba96b966a13305648036e004975d57ab40cc4ff2b",
+  "sha256": "26779e9161659bea013cf964fcf744f276e2fe68f5462ae189430fbedd747d2a",
   "date": "2026-11-26",
-  "notes": "Neon-Fenster & Ur-Logo\n- Update-Fenster mittig mit neongrünem Leuchten\n- Das bunte Ur-Logo ist zurück"
+  "notes": "Auto-Neustart nach Update\n- Nach einem Update öffnet sich EffektWerk von selbst wieder\n- Falls Android das blockiert: Benachrichtigung zum Öffnen"
 }
