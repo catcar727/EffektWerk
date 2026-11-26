@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.4",
-  "versionCode": 25,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.4-release.apk",
+  "version": "3.5",
+  "versionCode": 26,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.5-release.apk",
   "size": 66245,
-  "sha256": "1d556a54c1940dec90697b59588711c4fd93b7e88ef8e12a52062d4e0f7aab47",
+  "sha256": "a16087ce4a264ea80d9a8ff0a2909eb460117aa15f8b10c762567b7a79194c95",
   "date": "2026-11-26",
-  "notes": "Feedback & Systemleisten\n- Feedback-Bereich mit kurzen Fragen, Versand per Teilen, WhatsApp oder E-Mail\n- App liegt nicht mehr unter Status- und Navigationsleiste"
+  "notes": "Übersicht mit unterer Leiste\n- Geräte, Effekte, Favoriten, Scan und Mehr als eigene Bereiche\n- Vorschau bleibt oben immer sichtbar"
 }
