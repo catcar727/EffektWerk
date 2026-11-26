@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.7",
-  "versionCode": 28,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.7-release.apk",
+  "version": "3.8",
+  "versionCode": 29,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.8-release.apk",
   "size": 66245,
-  "sha256": "06b9233580fe7fda026f8f8a345a52d23ed434e91c384950285f7ea4c79978d3",
+  "sha256": "f9105f75a8b4154efd3ac2b4797d180143457649dbdf02cd9dbc51a16ade6590",
   "date": "2026-11-26",
-  "notes": "Segment-Anzeige\n- WLED-Segmente mit Bereich, Länge und Strang\n- Hinweise bei Lücken oder Überlappungen"
+  "notes": "Flüssiger bedienbar\n- Bildrate begrenzt (Standard 30 fps, einstellbar unter Mehr)\n- Schnelleres Senden, weniger Rechenlast durch Miniaturen und Vorschau"
 }
