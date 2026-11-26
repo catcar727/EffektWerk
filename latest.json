@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.7",
-  "versionCode": 18,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.7-release.apk",
+  "version": "2.8",
+  "versionCode": 19,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.8-release.apk",
   "size": 58053,
-  "sha256": "ffb52acd0634ba68e90b089dd9a4f07584735cfec7236030597bc89afc1371c8",
+  "sha256": "7eab26c75c640d2114dc0740ba0d50b654181cfd33380d9851594c999853dfa8",
   "date": "2026-11-26",
-  "notes": "Auto-Zoom & höhere Auflösung\n- Auto-Zoom startet automatisch vor jedem Scan\n- Kameraaufnahme bis 1920×1080, Auswertung mit 1280 Pixel Breite"
+  "notes": "Automatisches Referenzfoto\n- Vor jedem Scan wird nach dem Auto-Zoom automatisch ein Referenzfoto mit leuchtenden LEDs gespeichert"
 }
