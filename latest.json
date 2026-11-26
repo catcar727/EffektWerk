@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "5.2",
-  "versionCode": 43,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.2-release.apk",
-  "size": 836381,
-  "sha256": "491ea15bb67b1af6516640eef7a76e7fa39a07971a0d0685369942fcdec5e6b7",
+  "version": "5.3",
+  "versionCode": 44,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.3-release.apk",
+  "size": 971549,
+  "sha256": "6c236452b60aa48de5cb8482922848f3335bf6640824b5451a5e9054a68714b3",
   "date": "2026-11-26",
-  "notes": "Flüssigere Anzeige beim Scan\n- Scan gibt der Oberfläche zwischendurch Rechenzeit, Kamerabild wird seltener neu gezeichnet"
+  "notes": "Buddy im Intro\n- Intro mit dem Buddy statt der Glühbirne\n- Themen-Symbol (Android 13+) zeigt jetzt den Buddy"
 }
