@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.9",
-  "versionCode": 20,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.9-release.apk",
+  "version": "3.0",
+  "versionCode": 21,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.0-release.apk",
   "size": 62149,
-  "sha256": "5f85688775d66eaf0defbc81e58fbebab7d8eb91253060969db7a0099833976d",
+  "sha256": "75b56356fc78e488774cf6fcf20cc00dee843199d3dfc87c61205edb276666e8",
   "date": "2026-11-26",
-  "notes": "Varianten, Miniaturen, Auto-Zoom\n- Auto-Zoom repariert (WLED wird vorher eingeschaltet) plus digitaler Ausschnitt\n- Bestätigungston nach Scan und Nachmessen\n- Richtung und Stil für jeden Effekt\n- Live-Miniaturen auf der gescannten Struktur"
+  "notes": "Strukturen speichern & Alle Farben\n- Strukturen benennen, speichern und laden\n- Scanfarbe Alle Farben: Grün, Rot und Blau zusätzlich pro LED\n- Kamerabild zeigt den Zoom-Ausschnitt live\n- Manuelles Referenzfoto entfernt"
 }
