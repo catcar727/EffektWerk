@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.9",
-  "versionCode": 30,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.9-release.apk",
-  "size": 66245,
-  "sha256": "a0facf15c57f2017f179b8e60b5aefc0b05b38697626ff665b28ef99c8b6bc0b",
+  "version": "4.0",
+  "versionCode": 31,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.0-release.apk",
+  "size": 70341,
+  "sha256": "e57361b879dd29da813d34baa99402f63c1f2ce0a9af9663b9f407b3b47df3b6",
   "date": "2026-11-26",
-  "notes": "Gerätestatus klarer\n- Lila: aktuell verbunden, Grün: online und bereit, Orange: verbindet, Rot: nicht erreichbar"
+  "notes": "Hakeln behoben\n- Netzwerkabfragen blockieren die Oberfläche nicht mehr\n- Senden ohne Rückstau, Gerätestatus pausiert beim Streamen"
 }
