@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.0",
-  "versionCode": 21,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.0-release.apk",
+  "version": "3.1",
+  "versionCode": 22,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.1-release.apk",
   "size": 62149,
-  "sha256": "75b56356fc78e488774cf6fcf20cc00dee843199d3dfc87c61205edb276666e8",
+  "sha256": "af2ddec22806ac699227e2ab26544edfddfec08e94fd44451744a5f7349b557b",
   "date": "2026-11-26",
-  "notes": "Strukturen speichern & Alle Farben\n- Strukturen benennen, speichern und laden\n- Scanfarbe Alle Farben: Grün, Rot und Blau zusätzlich pro LED\n- Kamerabild zeigt den Zoom-Ausschnitt live\n- Manuelles Referenzfoto entfernt"
+  "notes": "Auswahl-Rand\n- Gewählter Effekt mit dezentem grünen, pulsierenden Rand statt weißem Kasten"
 }
