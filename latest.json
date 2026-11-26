@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "5.7",
-  "versionCode": 48,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.7-release.apk",
-  "size": 979741,
-  "sha256": "ecde526bfb9cde169310697fe28ea4a3ea6be7a5c03a94861375b9f5153c28d5",
+  "version": "5.8",
+  "versionCode": 49,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.8-release.apk",
+  "size": 983837,
+  "sha256": "4985be7fa434c7b026e5e723081af534dcc89531f409bf320f48a7441fbe10d4",
   "date": "2026-11-26",
-  "notes": "Struktur teilen verbessert\n- Teilt immer den gespeicherten Scan des Geräts, auch ohne Verbindung\n- Ohne Scan klarer Hinweis statt Platzhalter-Linie"
+  "notes": "5 neue Waben-Effekte\n- Wabenläufer, Netzwelle, Kantenblitz, Wabenfarben, Neuronen\n- Kanten, Knoten und Waben werden automatisch aus dem Scan erkannt"
 }
