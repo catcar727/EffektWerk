@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.0",
-  "versionCode": 31,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.0-release.apk",
+  "version": "4.1",
+  "versionCode": 32,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.1-release.apk",
   "size": 70341,
-  "sha256": "e57361b879dd29da813d34baa99402f63c1f2ce0a9af9663b9f407b3b47df3b6",
+  "sha256": "a555e16445dd712ef5a36f2bb13a6c5c2ca21f0c30b61ec642daf11648dc8b81",
   "date": "2026-11-26",
-  "notes": "Hakeln behoben\n- Netzwerkabfragen blockieren die Oberfläche nicht mehr\n- Senden ohne Rückstau, Gerätestatus pausiert beim Streamen"
+  "notes": "Logo & Version\n- Versionsnummer auf einer Linie mit dem App-Namen\n- Logo im Kopf animiert"
 }
