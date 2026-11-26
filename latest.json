@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.1",
-  "versionCode": 32,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.1-release.apk",
+  "version": "4.2",
+  "versionCode": 33,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.2-release.apk",
   "size": 70341,
-  "sha256": "a555e16445dd712ef5a36f2bb13a6c5c2ca21f0c30b61ec642daf11648dc8b81",
+  "sha256": "f80bc71a4ed9450090d409a30c798cf51fc7c564d5a84a052d68529e92d29a7e",
   "date": "2026-11-26",
-  "notes": "Logo & Version\n- Versionsnummer auf einer Linie mit dem App-Namen\n- Logo im Kopf animiert"
+  "notes": "Neustart nach Update\n- Unter Mehr: Status der nötigen Android-Rechte mit Direktlink in die Einstellungen"
 }
