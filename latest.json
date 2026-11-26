@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.8",
-  "versionCode": 39,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.8-release.apk",
-  "size": 451357,
-  "sha256": "f3f4ae9fa43052a4455333dff10581890b0417a53f19f0f20dec4d098d730e9b",
+  "version": "4.9",
+  "versionCode": 40,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.9-release.apk",
+  "size": 455453,
+  "sha256": "3d0b074ea3869f8b755da35f226fa440a38095613eeeb7e5442fb917ef340644",
   "date": "2026-11-26",
-  "notes": "Schnellerer Scan\n- Alle Farben: drei LEDs gleichzeitig in Rot, Grün und Blau, unsichere LEDs werden einzeln nachgemessen"
+  "notes": "Prüf-Ansicht und Buddy\n- Prüf-Ansicht ist im Scan-Reiter wieder sichtbar\n- Neuer Buddy zeigt deutlich, dass gerade gemessen wird"
 }
