@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "5.3",
-  "versionCode": 44,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.3-release.apk",
-  "size": 971549,
-  "sha256": "6c236452b60aa48de5cb8482922848f3335bf6640824b5451a5e9054a68714b3",
+  "version": "5.4",
+  "versionCode": 45,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.4-release.apk",
+  "size": 975645,
+  "sha256": "97156715127adc3fe82a1284ad1f99ca9844d2d841febb144f7e6550cc6c787d",
   "date": "2026-11-26",
-  "notes": "Buddy im Intro\n- Intro mit dem Buddy statt der Glühbirne\n- Themen-Symbol (Android 13+) zeigt jetzt den Buddy"
+  "notes": "Einführung beim ersten Start\n- 10 Wisch-Seiten mit Funktionen, Hinweisen und Feedback-Bereich\n- Einstellungen zum Abhaken: Benachrichtigungen, Neustart nach Update, Kamera, Mikrofon, Update-Suche, Signalton\n- Einführung jederzeit unter Mehr wieder aufrufbar"
 }
