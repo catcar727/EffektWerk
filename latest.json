@@ -1,0 +1,11 @@
+{
+  "app": "EffektWerk",
+  "package": "de.hitzler.effektwerk",
+  "version": "2.0",
+  "versionCode": 11,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.0-release.apk",
+  "size": 45765,
+  "sha256": "9ff6a7779976b89f887109f296195976d7d14931261f2ddb974c9dad3d1b8133",
+  "date": "2026-11-26",
+  "notes": "EffektWerk 2.0\n- Neues Design im Ruhepol-Stil\n- Prüf-Ansicht: Punkt antippen, LED leuchtet am Gerät\n- Doppelt erkannte LEDs werden markiert\n- Automatische Update-Prüfung beim Öffnen"
+}
