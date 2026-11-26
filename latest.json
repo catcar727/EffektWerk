@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.6",
-  "versionCode": 27,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.6-release.apk",
+  "version": "3.7",
+  "versionCode": 28,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.7-release.apk",
   "size": 66245,
-  "sha256": "d71a2f4f8fa675f59a2ebec6266a06adbde2afe66f3bd673a2fd731fbda6894a",
+  "sha256": "06b9233580fe7fda026f8f8a345a52d23ed434e91c384950285f7ea4c79978d3",
   "date": "2026-11-26",
-  "notes": "LED-Anzahl automatisch\n- Kein Schieberegler für die LED-Anzahl mehr, die Zahl kommt automatisch aus WLED"
+  "notes": "Segment-Anzeige\n- WLED-Segmente mit Bereich, Länge und Strang\n- Hinweise bei Lücken oder Überlappungen"
 }
