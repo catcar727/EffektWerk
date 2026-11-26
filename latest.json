@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.3",
-  "versionCode": 14,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.3-release.apk",
+  "version": "2.4",
+  "versionCode": 15,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.4-release.apk",
   "size": 53957,
-  "sha256": "63a1a65191c195049a1ded02df3ab24413527c613b0069ed7df3d215e754d185",
+  "sha256": "c3a5bbe90121e5cc161e65d93e57d097313443e160190b6155454f690e8b0c7a",
   "date": "2026-11-26",
-  "notes": "Nachmessen & Verbindungsprüfung\n- Nach dem Scan bleibt die Kamera offen: „Fehlende nachmessen“ probiert Weiß, Grün, Rot und Blau automatisch\n- Bereich per Finger markieren und gezielt nachmessen\n- Referenzfoto als Hintergrund zum Markieren\n- Auto-Helligkeit regelt nach Fehlversuchen wieder hoch\n- Verbindungsprüfung: warnt, wenn Realtime/DDP am WLED aus ist"
+  "notes": "Buttons & Scan-Ende\n- Buttons im Scan-Bereich passen wieder\n- Scan-Ende robuster, Fehler werden mit Zeilennummer angezeigt"
 }
