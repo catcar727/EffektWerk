@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "2.1",
-  "versionCode": 12,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.1-release.apk",
+  "version": "2.2",
+  "versionCode": 13,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-2.2-release.apk",
   "size": 53957,
-  "sha256": "3ef608d47f3292393ad51ad4a66f079af19f64eaf9cf72f1b6a786c7a857511c",
+  "sha256": "1f6a2b338acea88560733ba2eef05e3df0aa7ce05bc48dd172b201537cf5408c",
   "date": "2026-11-26",
-  "notes": "EffektWerk 2.1\n- Gerätesuche, Geräte werden gemerkt\n- 20 neue Effekte inkl. Musik-Effekte (Mikrofon)\n- Favoriten und Auto-Wechsel mit Überblendung\n- Strombegrenzung, Umkehren, Spiegeln\n- Scan: Helligkeit und Farbe automatisch"
+  "notes": "EffektWerk 2.2\n- Update-Prüfung beim Öffnen repariert\n- Prüfung auch beim Zurückkehren in die App"
 }
