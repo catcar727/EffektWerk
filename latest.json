@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.8",
-  "versionCode": 29,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.8-release.apk",
+  "version": "3.9",
+  "versionCode": 30,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.9-release.apk",
   "size": 66245,
-  "sha256": "f9105f75a8b4154efd3ac2b4797d180143457649dbdf02cd9dbc51a16ade6590",
+  "sha256": "a0facf15c57f2017f179b8e60b5aefc0b05b38697626ff665b28ef99c8b6bc0b",
   "date": "2026-11-26",
-  "notes": "Flüssiger bedienbar\n- Bildrate begrenzt (Standard 30 fps, einstellbar unter Mehr)\n- Schnelleres Senden, weniger Rechenlast durch Miniaturen und Vorschau"
+  "notes": "Gerätestatus klarer\n- Lila: aktuell verbunden, Grün: online und bereit, Orange: verbindet, Rot: nicht erreichbar"
 }
