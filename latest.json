@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.9",
-  "versionCode": 40,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.9-release.apk",
-  "size": 455453,
-  "sha256": "3d0b074ea3869f8b755da35f226fa440a38095613eeeb7e5442fb917ef340644",
+  "version": "5.0",
+  "versionCode": 41,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-5.0-release.apk",
+  "size": 500509,
+  "sha256": "b0e3c50e4af8464285d605db31ed9118b1982fb11904ae09c7afa2705be26114",
   "date": "2026-11-26",
-  "notes": "Prüf-Ansicht und Buddy\n- Prüf-Ansicht ist im Scan-Reiter wieder sichtbar\n- Neuer Buddy zeigt deutlich, dass gerade gemessen wird"
+  "notes": "Animiertes Intro\n- Das animierte Logo läuft beim Start im Hochformat auf schwarzem Hintergrund"
 }
