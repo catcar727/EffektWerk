@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.6",
-  "versionCode": 37,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.6-release.apk",
+  "version": "4.7",
+  "versionCode": 38,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.7-release.apk",
   "size": 451357,
-  "sha256": "68ce46d56d67d4896499bad92050028529a9f8baf29ad5fdaf415c0ff8520117",
+  "sha256": "80c468671befebfea29b45ed8dcebc20ea9d90e1867ebc4d49c83591dd01cdd1",
   "date": "2026-11-26",
-  "notes": "Mehr Platz im Scan-Reiter\n- LED-Vorschau oben ist im Scan- und Mehr-Reiter ausgeblendet"
+  "notes": "Zuverlässigerer Scan\n- Alle Farben: jede LED nacheinander in Weiß, Rot, Grün, Blau (jetzt Standard)\n- Handy-Wackeln wird beim Scan und Nachmessen ausgeglichen\n- Geisterbild: Referenzfoto halbtransparent zum Ausrichten\n- Kamerabild im Hochformat nicht mehr verzerrt"
 }
