@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.5",
-  "versionCode": 36,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.5-release.apk",
+  "version": "4.6",
+  "versionCode": 37,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.6-release.apk",
   "size": 451357,
-  "sha256": "05c9c9d8d8b62e5883f82a46f317c7d799e516f479d3d1e137376a23afd24775",
+  "sha256": "68ce46d56d67d4896499bad92050028529a9f8baf29ad5fdaf415c0ff8520117",
   "date": "2026-11-26",
-  "notes": "App-Symbol\n- Symbol passt jetzt sauber in runde und eckige Symbolrahmen"
+  "notes": "Mehr Platz im Scan-Reiter\n- LED-Vorschau oben ist im Scan- und Mehr-Reiter ausgeblendet"
 }
