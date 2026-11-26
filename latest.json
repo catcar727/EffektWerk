@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "3.2",
-  "versionCode": 23,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.2-release.apk",
-  "size": 62149,
-  "sha256": "c7da7445dd08fa342460781d2b524592939980fb2a4ee5d3e70d94f1c506d30f",
+  "version": "3.4",
+  "versionCode": 25,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-3.4-release.apk",
+  "size": 66245,
+  "sha256": "1d556a54c1940dec90697b59588711c4fd93b7e88ef8e12a52062d4e0f7aab47",
   "date": "2026-11-26",
-  "notes": "Gerätestatus\n- Geräte oben mit Status: grün verbunden, orange verbindet, rot nicht erreichbar\n- Prüfung alle 10 Sekunden"
+  "notes": "Feedback & Systemleisten\n- Feedback-Bereich mit kurzen Fragen, Versand per Teilen, WhatsApp oder E-Mail\n- App liegt nicht mehr unter Status- und Navigationsleiste"
 }
