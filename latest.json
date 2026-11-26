@@ -1,11 +1,11 @@
 {
   "app": "EffektWerk",
   "package": "de.hitzler.effektwerk",
-  "version": "4.4",
-  "versionCode": 35,
-  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.4-release.apk",
-  "size": 717597,
-  "sha256": "431b531cc0622e2c759a8679574f8584488215e006118c77f3dd4389fdc4eabb",
+  "version": "4.5",
+  "versionCode": 36,
+  "url": "https://raw.githubusercontent.com/catcar727/EffektWerk/main/apk/effektwerk-4.5-release.apk",
+  "size": 451357,
+  "sha256": "05c9c9d8d8b62e5883f82a46f317c7d799e516f479d3d1e137376a23afd24775",
   "date": "2026-11-26",
-  "notes": "Manuelle Update-Suche\n- Unter Mehr: Button Nach Updates suchen mit sichtbarem Ergebnis"
+  "notes": "App-Symbol\n- Symbol passt jetzt sauber in runde und eckige Symbolrahmen"
 }
